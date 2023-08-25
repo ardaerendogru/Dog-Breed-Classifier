@@ -4,7 +4,7 @@ This project is part of the AWS AI&ML Scholarship program by Udacity. The goal o
 
 ## Project Overview
 
-In this project, three different pre-trained image classifiers (ResNet, AlexNet, and VGG) used  to classify images of dogs and their breeds. Also, performance of these classifiers compared the  and determined which one is the best for this task.
+In this project, three different pre-trained image classifiers (ResNet, AlexNet, and VGG) are used  to classify images of dogs and their breeds. Also, performance of these classifiers compared the and determined which one is the best for this task.
 
 ## Project Instructions
 
